@@ -1,6 +1,7 @@
-## Hi there 👋
+<img src="https://media1.tenor.com/m/7Tu-pBzg0_kAAAAd/programming.gif">
 
-<!--
+<!--## Hi there 👋
+
 **WonderSi/WonderSi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
