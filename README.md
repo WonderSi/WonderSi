@@ -1,5 +1,5 @@
 <!-- <img src="https://media1.tenor.com/m/7Tu-pBzg0_kAAAAd/programming.gif" style="display: block; margin: 0 auto; width: 300px;"> -->
-<div style="text-align: center;">
+<div align="center">
   <img src="https://camo.githubusercontent.com/f1ed1bf87ba68443cc8c24eb67e9e64e11ef5c81017719950984a7ece15a4edc/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d776869737065722e676966">
 </div>
 <!--## Hi there 👋
