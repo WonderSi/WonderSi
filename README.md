@@ -1,4 +1,4 @@
-<img src="https://media1.tenor.com/m/7Tu-pBzg0_kAAAAd/programming.gif">
+<img src="https://media1.tenor.com/m/7Tu-pBzg0_kAAAAd/programming.gif" style="display: block; margin: 0 auto; width: 300px;">
 
 <!--## Hi there 👋
 
