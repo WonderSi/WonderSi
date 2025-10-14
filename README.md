@@ -1,7 +1,38 @@
-<!-- <img src="https://media1.tenor.com/m/7Tu-pBzg0_kAAAAd/programming.gif" style="display: block; margin: 0 auto; width: 300px;"> -->
-<div align="center">
-  <img src="https://camo.githubusercontent.com/f1ed1bf87ba68443cc8c24eb67e9e64e11ef5c81017719950984a7ece15a4edc/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d776869737065722e676966">
-</div>
+# Hi everyone <img width="50" src="https://camo.githubusercontent.com/f1ed1bf87ba68443cc8c24eb67e9e64e11ef5c81017719950984a7ece15a4edc/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d776869737065722e676966">
+
+<details>
+  
+<summary>
+  More stuff about me
+</summary>
+
+## Quick overview
+
+#### GitHub stats 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=wondersi&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+</a>  
+
+### What I do
+
+I am passionate about web development.
+
+## My skills 📜
+
+### Web technologies
+
+- JavaScript
+- TypeScript
+- React
+- HTML, CSS
+- SCSS
+- Tailwind
+- Node.js
+- MySQL
+
+</details>
+
+
 <!--## Hi there 👋
 
 **WonderSi/WonderSi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
