@@ -21,14 +21,14 @@ I am passionate about web development.
 
 ### Web technologies
 
-- JavaScript
-- TypeScript
-- React
-- HTML, CSS
-- SCSS
-- Tailwind
-- Node.js
-- MySQL
+- <img align="center" width="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png"> JavaScript
+- <img align="center" width="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png"> TypeScript
+- <img align="center" width="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png"> React
+- <img align="center" width="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png"> HTML, <img align="center" width="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png"> CSS
+- <img align="center" width="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sass.png"> SCSS
+- <img align="center" width="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png"> Tailwind
+- <img align="center" width="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png"> Node.js
+- <img align="center" width="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png"> MySQL
 
 </details>
 
