@@ -19,8 +19,6 @@ I am passionate about web development.
 
 ## My skills 📜
 
-### Web technologies
-
 <img align="center" width="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png"> <!-- JavaScript -->
 <img align="center" width="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png"> <!-- TypeScript -->
 <img align="center" width="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vue_js.png"> <!-- Vue -->
